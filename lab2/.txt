@@ -1,0 +1,30 @@
+Name: 
+Roll Number: 
+
+
+Semester 1
+Course Number    |   Course Name     |   C   |   grade
+
+Semester 2
+Course Number    |   Course Name     |   C   |   grade
+
+Semester 3
+Course Number    |   Course Name     |   C   |   grade
+
+Semester 4
+Course Number    |   Course Name     |   C   |   grade
+
+Semester 5
+Course Number    |   Course Name     |   C   |   grade
+
+Semester 6
+Course Number    |   Course Name     |   C   |   grade
+
+Semester 7
+Course Number    |   Course Name     |   C   |   grade
+
+Semester 8
+Course Number    |   Course Name     |   C   |   grade
+
+
+SPI: -nan -nan -nan -nan -nan -nan -nan -nan 
